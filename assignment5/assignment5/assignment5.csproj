@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>assignment5.SealedClass</StartupObject>
+    <StartupObject>assignment5.UserRegis</StartupObject>
   </PropertyGroup>
 
 </Project>
